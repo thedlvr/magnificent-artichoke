@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Dimension</h1>
         <p>
-                    invitation only concierge medicine{' '}
+                    invitation only concierge medicine by{' '}
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, Personalized to you</a>
           <br />
           {' '}
