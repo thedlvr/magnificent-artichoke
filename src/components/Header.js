@@ -12,7 +12,7 @@ const Header = props => (
         <p>
                    referral only concierge medicine by{' '}
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, personalized to you. 
-           </a> <br/>
+           </a> <br/>\n
             born in Los Angeles
         </p>
          
