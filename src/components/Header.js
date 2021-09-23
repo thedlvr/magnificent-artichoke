@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>bespoke health</h1>
         <p>
-                   referral only concierge medicine by personalized to you by the globally reknowned chief medical officer{' '}
+                   referral only concierge medicine by personalized to you by the globally reknowned rehabilitation expert and chief medical officer{' '}
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD.<br/> 
                 
            </a> 
