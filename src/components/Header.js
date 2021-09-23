@@ -12,7 +12,8 @@ const Header = props => (
         <p>
                    referral only concierge medicine by{' '}
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, bespoke to you</a>
-          <br />     Creative Commons</a> license.
+          <br />
+     Creative Commons</a> license.
         </p>
       </div>
     </div>
