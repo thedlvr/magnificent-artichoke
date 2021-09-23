@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 const Footer = (props) => (
     <footer id="footer" style={props.timeout ? {display: 'none'} : {}}>
         <p className="copyright">&copy; Bespoke Health - Los Angeles | Aspen | San Francisco | 
-         New York | Global  <a href=""></a> Boston - <a  href="https://www.kottonmd.com/">Learn More</a></p>
+         New York | <a href=""></a> Boston - <a  href="https://www.kottonmd.com/">Learn More</a></p>
     </footer>
 )
 
