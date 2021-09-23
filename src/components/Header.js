@@ -11,7 +11,7 @@ const Header = props => (
         <h1>Dimension</h1>
         <p>
                     invitation only concierge medicine{' '}
-          <a href="https://kottonmd.com">Dr Ryan H. Kotton MD</a>
+          <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, Los</a>
           <br />
           {' '}
           <a href="https://html5up.net/license">.     Creative Commons</a> license.
