@@ -11,7 +11,7 @@ const Header = props => (
         <h1>Dimension</h1>
         <p>
                    referral only concierge medicine by{' '}
-          <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, personalized to you.\n</a>
+          <a href="https://kottonmd.com">Dr Ryan H. Kotton MD, personalized to you.</a>
           <br />
           <a href=""></a> license.
         </p>
