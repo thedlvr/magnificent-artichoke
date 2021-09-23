@@ -14,7 +14,7 @@ const Header = props => (
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD</a>
           <br />
           {' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+          <a href="https://html5up.net/license">.     Creative Commons</a> license.
         </p>
       </div>
     </div>
