@@ -13,7 +13,7 @@ const Header = props => (
           invitation only concierge medicine{' '}
           <a href="https://kottonmd.com">Dr Ryan H. Kotton MD</a>
           <br />
-          for free under the{' '}
+          {' '}
           <a href="https://html5up.net/license">Creative Commons</a> license.
         </p>
       </div>
