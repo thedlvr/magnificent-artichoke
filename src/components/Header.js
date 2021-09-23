@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>Dimension</h1>
         <p>
-          The invitation only concierge medicine  by{' '}
+          invitation only concierge medicine  by{' '}
           <a href="https://html5up.net">HTML5 UP</a> and released
           <br />
           for free under the{' '}
